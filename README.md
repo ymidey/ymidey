@@ -7,7 +7,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymidey&" alt="ymidey" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/ymidey/count.svg)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ymidey&label=VISITORS&countColor=%23ba68c8&style=flat-square)](https://visitorbadge.io/status?path=ymidey)
 <!--
 **ymidey/ymidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
